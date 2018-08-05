@@ -43,6 +43,7 @@ cmake_install.cmake
 *.pro.user*
 *.cbp
 *.user
+/build*
 
 # xemacs temporary files
 *.flc
