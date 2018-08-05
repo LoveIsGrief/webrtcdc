@@ -1,0 +1,8 @@
+[submodule "librtcdcpp"]
+	path = librtcdcpp
+	url = https://github.com/chadnickbok/librtcdcpp.git
+        ignore = untracked
+[submodule "usrsctp"]
+	path = usrsctp
+	url = https://github.com/sctplab/usrsctp.git
+        ignore = untracked
