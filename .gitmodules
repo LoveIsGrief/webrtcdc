@@ -4,5 +4,5 @@
         ignore = untracked
 [submodule "usrsctp"]
 	path = usrsctp
-	url = https://github.com/sctplab/usrsctp.git
+	url = git@github.com:LoveIsGrief/usrsctp.git
         ignore = untracked
